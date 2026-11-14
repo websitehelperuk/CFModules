@@ -23,10 +23,6 @@ It uses the documented widget slot `client.theme.body.start`, so no template is 
 
 If the client area still shows the old styles after saving, go to **System → Settings → System**, open the **Cache** tab and select **Invalidate cache**.
 
-## Updating
-
-Replace the module files with the new release, but **keep your existing `modules/Customcss/custom.css`**, because the release zip contains an empty placeholder that would overwrite your styles.
-
 ## Tested
 
 - ClientFence version: 1.0.49
