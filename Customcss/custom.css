@@ -1,0 +1,6 @@
+/*
+ * Custom CSS for the ClientFence client area.
+ * Loaded after the Palisade theme, so same-specificity rules here win.
+ * Safe from updates: this folder is never touched by a ClientFence update.
+ */
+

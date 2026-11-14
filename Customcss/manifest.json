@@ -1,0 +1,9 @@
+{
+  "id": "customcss",
+  "type": "mod",
+  "name": "Custom CSS",
+  "description": "Loads your own CSS on every client area page so you can override the Palisade theme without editing a template. Edit it under Extensions, Custom CSS.",
+  "icon_url": "icon.svg",
+  "version": "1.2.0",
+  "license": "GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+}

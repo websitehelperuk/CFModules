@@ -1,0 +1,6 @@
+{% set customcss = guest.customcss_css %}
+{% if customcss %}
+<style id="customcss" nonce="{{ csp_nonce }}">
+{{ customcss|raw }}
+</style>
+{% endif %}
