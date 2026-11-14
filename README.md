@@ -14,8 +14,8 @@ It uses the documented widget slot `client.theme.body.start`, so no template is 
 
 ## Install
 
-1. Download the latest zip from the [Releases](../../releases) page.
-2. Unzip it so you have `modules/Customcss/` inside your ClientFence directory.
+1. On this page, select **Code → Download ZIP** and unzip it.
+2. Copy the `Customcss` folder from inside it to `modules/` in your ClientFence directory, so you end up with `modules/Customcss/`
 3. Make the web server user the owner of the folder, as the ClientFence module docs describe.
 4. Make `modules/Customcss/custom.css` writable by the web server user. Without this you can still use the module, but the editor cannot save and will tell you so. Only the file needs to be writable, not the folder.
 5. Go to **Extensions**, find **Custom CSS** and select **Activate**.
